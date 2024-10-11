@@ -14,4 +14,5 @@
 - Reference Learning
 - Linear Discriminant Analysis
 - Anomaly Detection
-#From https://buiquangdat1710.github.io
+
+##From https://buiquangdat1710.github.io
