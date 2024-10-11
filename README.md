@@ -1,4 +1,5 @@
 ## Machine Learning Algorithm:
+## From https://buiquangdat1710.github.io
 
 - Linear Regression
 - K - Means
@@ -15,4 +16,4 @@
 - Linear Discriminant Analysis
 - Anomaly Detection
 
-##From https://buiquangdat1710.github.io
+
