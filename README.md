@@ -1,5 +1,5 @@
 ## Machine Learning Algorithm:
-## From: https://buiquangdat1710.github.io
+## Cre: https://buiquangdat1710.github.io
 
 - Linear Regression
 - K - Means
