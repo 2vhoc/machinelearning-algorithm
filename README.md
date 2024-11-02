@@ -15,5 +15,6 @@
 - Reference Learning
 - Linear Discriminant Analysis
 - Anomaly Detection
+- Reinforcement Learning
 
 
