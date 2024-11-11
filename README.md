@@ -1,4 +1,4 @@
-## Machine Learning Algorithm:
+## Machine Learning Algorithm for AI Engineer:
 ## Cre: https://buiquangdat1710.github.io
 
 - Linear Regression
@@ -16,5 +16,6 @@
 - Linear Discriminant Analysis
 - Anomaly Detection
 - Reinforcement Learning
+- Naive Bayes
 
 
