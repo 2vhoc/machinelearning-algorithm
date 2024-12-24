@@ -20,6 +20,7 @@
 - Reference Learning
 - Reinforcement Learning
 - Gradient Descent
+- SVM
   
 
 
